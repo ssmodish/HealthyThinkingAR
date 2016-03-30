@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Steve\Downloads\Assets for Health Care App\HealthCareApp\ARTest1\app\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9653c966030baaf50129735bc7dade4d9a7b952">
+        <dex dex="C:\Users\Steve\Downloads\Assets for Health Care App\HealthCareApp\ARTest1\app\build\intermediates\pre-dexed\debug\VuforiaUnityPlayer_5b97f117d31514ff361cf045cde466357e8d81b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Steve\Downloads\Assets for Health Care App\HealthCareApp\ARTest1\app\libs\Vuforia.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9be6fe42a9843737d973096dd26f8250c3db9022">
+        <dex dex="C:\Users\Steve\Downloads\Assets for Health Care App\HealthCareApp\ARTest1\app\build\intermediates\pre-dexed\debug\Vuforia_ecba4e974443f2921108a20766056ccf10373e50.jar" />
+    </item>
+    <item
+        jar="C:\Users\Steve\Downloads\Assets for Health Care App\HealthCareApp\ARTest1\app\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27221efc5cd7abf927b2a7411504a70949c27529">
+        <dex dex="C:\Users\Steve\Downloads\Assets for Health Care App\HealthCareApp\ARTest1\app\build\intermediates\pre-dexed\debug\unity-classes_77cd391968c2906f2b13e5e1f4e9e5e19f805ecb.jar" />
+    </item>
+
+</items>

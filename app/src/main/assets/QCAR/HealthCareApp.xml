@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="NCAA-Florida_Atlantic_Owls-logo" size="100.000000 75.195312" />
+    <ImageTarget name="TwoDollarFace_target" size="100.000000 43.868153" />
+    <ImageTarget name="OneDollarFace_target" size="100.000000 41.199226" />
+  </Tracking>
+</QCARConfig>
